@@ -552,7 +552,7 @@ http://138.59.177.34:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="MX | Teleritmo" tvg-name="MX | Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="MUSICA Y REALITIES", 270 | Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="MX | Concert Channel" tvg-name="MX | Concert Channel" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="MUSICA Y REALITIES", 271 | Concert Channel
-http://138.59.177.34:8000/play/a06l/index.m3u8
+http://45.5.116.178:8000/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA Y REALITIES", 272 | Exa TV
 http://138.59.177.34:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="CO | Telemúsica" tvg-name="CO | Telemúsica" tvg-logo="https://image.roku.com/developer_channels/prod/826c2efdf3c093d6fef8e61063aa76e0454b018cc3d34da897e53487082d52c6.png" group-title="MUSICA Y REALITIES", 273 | Telemúsica
