@@ -496,7 +496,7 @@ http://167.250.135.246:81/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES", 242 | GolTV
 http://167.250.135.246:81/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-id="PE | L1Max" tvg-name=PE | L1Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/320px-L1MAX-LOGO.svg.png" group-title="DEPORTES", 243 | L1Max
-http://177.53.153.20:8001/play/a00h/index.m3u8
+https://zw5k.la10tv.com/liga1max/index.m3u8?token=43fecfef78de2ef0bd196af07f0899630d0ed606-e4430add73d6007fd8630a7676e7d383-1723979181-1723943181&remote=179.6.170.122
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 244 | Gol Perú
 http://177.53.153.20:8001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", 245 | Movistar Deportes
